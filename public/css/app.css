@@ -1,0 +1,14 @@
+.card_margin {
+    margin:0 20 20 20;
+}
+.error_color {
+    color:red;
+    margin-top: -16px;
+}
+.success_color {
+    color:green;
+    margin-top: -16px;
+}
+.border-red {
+    border-color: red;
+}
